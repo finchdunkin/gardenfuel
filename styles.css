@@ -1,0 +1,28 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f7f0;
+  color: #333;
+  margin: 0;
+  padding: 1rem;
+}
+header {
+  background-color: #6a1b9a;
+  color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+main {
+  margin-top: 1rem;
+}
+h1 {
+  margin: 0;
+}
+ul {
+  list-style-type: '🌱 ';
+}
+footer {
+  margin-top: 2rem;
+  text-align: center;
+  color: #999;
+}
