@@ -4,7 +4,7 @@ function Home() {
   return (
     <div>
       <h1>Welcome to GardenFuel 🌿</h1>
-      <p>This is the hub of your health journey. Use the buttons above to get started!</p>
+      <p>This is your home base for meal planning, progress tracking, and more. Use the navigation links above to begin.</p>
     </div>
   );
 }
